@@ -29,9 +29,9 @@ Actualiza las credenciales en los archivos conexionPDO.php y conexionMySQLi.php 
 
 ## 🔢 Estadísticas
 
- ![Creado](https://img.shields.io/badge/Creado-08--07--2025-blue)
-![Visitor Count](https://badgen.net/github/watchers/Salomon2514/EjemplosBasicosPHP)
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Salomon2514.EjemplosBasicosPHP)
+ ![Creado](https://img.shields.io/badge/Creado-23--10--2025-blue)
+![Visitor Count](https://badgen.net/github/watchers/Salomon2514/EjemploConexiones)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Salomon2514.EjemploConexiones)
 
 
 
