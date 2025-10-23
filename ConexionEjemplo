@@ -1,0 +1,17 @@
+ <?PHP 
+
+ ////Datos db
+    $usuario = "usuario";
+    $password = "pass";
+    $servidor = "servidor";
+    $basededatos = "basedatos";
+
+    ////Crear conexion
+    $conexion = mysqli_connect($servidor, $usuario, $password)
+    or die("No se ha podido conectar a la base de datos");
+
+    ////Seleccionar db
+    $db = mysqli_select_db($conexion, $basededatos)
+    or die("uppppss! No se ha podido conectar a la base de datos");
+
+    ?>
