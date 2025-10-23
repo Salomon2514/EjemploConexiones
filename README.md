@@ -39,7 +39,9 @@ Actualiza las credenciales en los archivos conexionPDO.php y conexionMySQLi.php 
 
 1. Descarga o clona el repositorio, ubica una carpeta en www -> para WampServer o htdocs  si es Xampp
    ```bash
-   [git clone https://github.com/Salomon2514/EjemplosBasicosPHP.git]
+   [git clone https://github.com/Salomon2514/EjemploConexiones.git]
+<img width="1196" height="105" alt="image" src="https://github.com/user-attachments/assets/0608d7a0-1fb7-40b0-bb5b-399a7c1d3213" />
+
 2. Para correrlos edita el URL de su navegador:  http://127.1.1.1/Carpeta/ o  http://localhost/Carpeta/
 
 ## 👨‍🏫 Autor
