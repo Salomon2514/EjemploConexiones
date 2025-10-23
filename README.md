@@ -1,3 +1,10 @@
+
+
+## Ejemplos de Conexión a Base de Datos con PHP (PDO y MySQLi Orientado a Objetos)
+
+Este repositorio contiene ejemplos prácticos de cómo realizar conexiones seguras a una base de datos MySQL utilizando PHP, 
+tanto con **PDO (PHP Data Objects)** como con **MySQLi** en modo **orientado a objetos**. Incluye además una base de datos de ejemplo y scripts básicos para realizar conexiones y READ (select).
+
 ## 🌐 Tecnologías utilizadas  
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
@@ -7,10 +14,6 @@
 ![WampServer](https://img.shields.io/badge/WampServer-FF0040?style=for-the-badge&logo=windows&logoColor=white)
 
 
-## Ejemplos de Conexión a Base de Datos con PHP (PDO y MySQLi Orientado a Objetos)
-
-Este repositorio contiene ejemplos prácticos de cómo realizar conexiones seguras a una base de datos MySQL utilizando PHP, 
-tanto con **PDO (PHP Data Objects)** como con **MySQLi** en modo **orientado a objetos**. Incluye además una base de datos de ejemplo y scripts básicos para realizar conexiones y READ (select).
 
 ## Requisitos
 - PHP >= 8.0
